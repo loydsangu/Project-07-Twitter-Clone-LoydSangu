@@ -1,11 +1,16 @@
 import React from 'react';
+import Header from '../components/header/header';
+import TweetEditor from '../components/tweet-editor';
+import Tweet from '../components/tweet';
 
 function Home() {
   return (
     <main className="timeline">
-      <h1>Timeline here</h1>
+     <Header />
+     <TweetEditor />
+     <Tweet />
     </main>
   );
 }
 
-export default Home;
+export default Home;  

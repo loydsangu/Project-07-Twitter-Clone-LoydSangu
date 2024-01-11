@@ -13,6 +13,7 @@ function Tweet () {
           <img src="/img/React.svg"></img>
           <img src="/img/Tweet-Replies(1).svg"></img>
         </div>
+        <div></div>
       </div>
    </div>
   );

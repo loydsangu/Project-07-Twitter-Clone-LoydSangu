@@ -1,0 +1,81 @@
+{
+    "currentUser": {
+        "id" :"1",
+        "sourceCoverPhoto" :"img/tweet-image.png",
+        "sourceprofilePicture" :"img/profile-photo.png",
+        "pseudo" :"Bradley Ortiz",
+        "userName" :"@bradleyOrtiz",
+        "description" :"Programming",
+        "location" :"Kinshasa",
+        "websiteLink" :"www.Lloyd.com",
+        "yearJoined" :" January 2018",
+        "numberSubscriptions" :15,
+        "numberSubscribers" :8
+    },
+    "tweets": [
+        {
+        "id" : 1,
+        "sourceProfilePhoto" :"public/tweet-profile-photo.png" ,
+        "author" :"CNN",
+        "username" : "@CNN" ,
+        "datePublication" : "7m",
+        "textContent" : "President Joe Biden touted a new agreement reached with the European Union to ease Trump-era tariffs on aluminum and steel as a \"major breakthrough\" that would serve to both strengthen the US steel industry and combat the global climate crisis.",
+        "sourceImageTweet" : "",
+        "valueReply" : 57,
+        "valueReposter" : 144,
+        "valueLike" : 184,
+        "valueShare" :""
+    },
+    {
+        "id" : 2,
+        "sourceProfilePhoto" : "public/img/image 1 (1).svg" ,
+        "author" : "The New York Times",
+        "username" : "@nytimes",
+        "datePublication" :"2h",
+        "textContent" :"Gardening boomed during the pandemic. Six Black writers share how it has helped them re-establish, and reimagine, a connection to cultivation and the land",
+        "sourceImageTweet" : "public/img/tweet-image.png",
+        "valueReply" : 19,
+        "valueReposter" : 48,
+        "valueLike" : 482,
+        "valueShare":""
+    },
+    {
+        "id" : 3,
+        "sourceProfilePhoto" : "public/img/logoTwiiter.png" ,
+        "author" : "Twitter" ,
+        "username" : "@Twitter",
+        "datePublication" : "Oct 29",
+        "textContent" : "BIG NEWS lol jk still Twitter",
+        "sourceImageTweet" : "",
+        "valueReply" : 668,
+        "valueReposter" : 36,
+        "valueLike" : 2671,
+        "valueShare" :""
+    },
+    {
+        "id" : 4,
+        "sourceProfilePhoto" :"public/img/logoTwiiter.png" ,
+        "author" :"Twitter" ,
+        "username" :"@Twitter",
+        "datePublication" :"Oct 4",
+        "textContent" : "hello literally everyone",
+        "sourceImageTweet" : "",
+        "valueReply" : 1187,
+        "valueReposter" : 7854,
+        "valueLike" : 33,
+        "valueShare" : ""
+    },
+    {
+        "id" : 5,
+        "sourceProfilePhoto" :"public/img/logoTwiiter.png" ,
+        "author" :"Twitter" ,
+        "username" :"@Twitter" ,
+        "datePublication" :"Oct 4",
+        "valueReply" : 1187,
+        "valueReposter" :784,
+        "valueLike" :33,
+        "valueShare" :""
+    }
+    ]
+}
+

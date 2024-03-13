@@ -1,13 +1,13 @@
 {
     "currentUser": {
-        "id" :"1",
+        "id" :1,
         "sourceCoverPhoto" :"img/tweet-image.png",
         "sourceprofilePicture" :"img/profile-photo.png",
         "pseudo" :"Bradley Ortiz",
         "userName" :"@bradleyOrtiz",
         "description" :"Programming",
         "location" :"Kinshasa",
-        "websiteLink" :"www.Lloyd.com",
+        "websiteLink" :"www.Lloyd Sangu.com",
         "yearJoined" :" January 2018",
         "numberSubscriptions" :15,
         "numberSubscribers" :8

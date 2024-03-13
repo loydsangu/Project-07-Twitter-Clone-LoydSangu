@@ -13,7 +13,7 @@ function Tweet() {
           (tweet, index )=> (
             <div className="tweet" key={index}> 
               <div className="tweet-avatar">
-                <img src={tweet.sourceProfilePhoto} alt="" />
+                <img src={tweet.sourceProfilePhoto} alt="" />                                                                     
               </div>
               <div className="tweet-content">
                 <div className="tweet-body">
@@ -21,7 +21,7 @@ function Tweet() {
                     <div className="tweet-title-author">
                       <p>{tweet.author} </p>
                     </div>
-                    <div className="tweet-title-details"></div>
+                    <div className="tweet-title-details"> <img src="public/img/Verified.svg" alt="" /> </div>
                     <div className="tweet-title-details">{tweet.username}</div>
                     <div className="tweet-title-details">.</div>
                     <div className="tweet-title-details"> {tweet.datePublication} </div>
